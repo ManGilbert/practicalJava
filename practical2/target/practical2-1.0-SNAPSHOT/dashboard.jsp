@@ -19,7 +19,7 @@
 
         <hr>
 
-        <a href="students">Manage Students</a> |
+        <a href="students.jsp">Manage Students</a> |
         <a href="logout">Logout</a>
 
 

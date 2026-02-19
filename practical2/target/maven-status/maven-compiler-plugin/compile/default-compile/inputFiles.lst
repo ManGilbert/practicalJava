@@ -1,6 +1,11 @@
-C:\Users\Software Engineer\Documents\NetBeansProjects\practical2\src\main\java\com\mycompany\practical2\JakartaRestConfiguration.java
-C:\Users\Software Engineer\Documents\NetBeansProjects\practical2\src\main\java\com\mycompany\practical2\resources\JakartaEE11Resource.java
-C:\Users\Software Engineer\Documents\NetBeansProjects\practical2\src\main\java\controller\DashboardServlet.java
-C:\Users\Software Engineer\Documents\NetBeansProjects\practical2\src\main\java\controller\LoginServlet.java
-C:\Users\Software Engineer\Documents\NetBeansProjects\practical2\src\main\java\controller\LogoutServlet.java
-C:\Users\Software Engineer\Documents\NetBeansProjects\practical2\src\main\java\util\DBConnection.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\com\mycompany\practical2\JakartaRestConfiguration.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\com\mycompany\practical2\resources\JakartaEE11Resource.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\controller\AddStudentAjax.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\controller\DashboardServlet.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\controller\DeleteStudentAjax.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\controller\LoginServlet.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\controller\LogoutServlet.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\controller\StudentAjaxServlet.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\controller\UpdateStudentAjax.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\model\Student.java
+C:\Users\Software Engineer\Documents\NetBeansProjects\practical\practical2\src\main\java\util\DBConnection.java

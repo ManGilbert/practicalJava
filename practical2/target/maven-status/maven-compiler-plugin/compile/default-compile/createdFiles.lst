@@ -1,6 +1,11 @@
 controller\DashboardServlet.class
+controller\StudentAjaxServlet.class
+controller\UpdateStudentAjax.class
 controller\LoginServlet.class
+model\Student.class
+controller\AddStudentAjax.class
 com\mycompany\practical2\JakartaRestConfiguration.class
 controller\LogoutServlet.class
+controller\DeleteStudentAjax.class
 com\mycompany\practical2\resources\JakartaEE11Resource.class
 util\DBConnection.class
