@@ -1,0 +1,6 @@
+controller\DashboardServlet.class
+controller\LoginServlet.class
+com\mycompany\practical2\JakartaRestConfiguration.class
+controller\LogoutServlet.class
+com\mycompany\practical2\resources\JakartaEE11Resource.class
+util\DBConnection.class
