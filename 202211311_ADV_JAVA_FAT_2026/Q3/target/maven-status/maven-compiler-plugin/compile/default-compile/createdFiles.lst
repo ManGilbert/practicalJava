@@ -1,0 +1,6 @@
+com\mycompany\q3\resources\JakartaEE11Resource.class
+model\Client.class
+com\mycompany\q3\JakartaRestConfiguration.class
+controller\ClientDataServlet.class
+controller\ClientInputServlet.class
+model\ClientDAO.class

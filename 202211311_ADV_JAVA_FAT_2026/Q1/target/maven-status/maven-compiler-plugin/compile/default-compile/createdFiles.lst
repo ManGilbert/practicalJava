@@ -1,0 +1,5 @@
+AuthFilter.class
+controller\LoginServlet.class
+com\mycompany\q1\resources\JakartaEE11Resource.class
+com\mycompany\q1\JakartaRestConfiguration.class
+controller\LogoutServlet.class

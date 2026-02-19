@@ -1,0 +1,4 @@
+com\mycompany\q2\resources\JakartaEE11Resource.class
+com\mycompany\q2\StudentServlet.class
+com\mycompany\q2\JakartaRestConfiguration.class
+com\mycompany\model\Student.class
